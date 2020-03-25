@@ -1,6 +1,11 @@
 ### 본 문제는 캠프 3일차 과제입니다. 아래의 3문제를 Python으로 작성해서 alp69799@hanyang.ac.kr로 소스코드를 보내주세요.
 ---------------------------------------------------
 
+#### * 문제를 풀때 참고하면 좋은 사이트 
+###### 1. fibonacci sequence : https://en.wikipedia.org/wiki/Fibonacci_number
+###### 2. Python document : https://wikidocs.net/book/1553
+###### 3. Dynamic Programming : https://ko.wikipedia.org/wiki/%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95
+---------------------------------------------------
 #### 문제 1. 피보나치 수열 (list 형)
 
 ###### 정수 n이 입력으로 주어질 때, 피보나치 수열의 n번째 항을 출력하는 프로그램을 작성하세요. ( * for 반복문과 list 자료형을 필수로 사용하셔야 합니다. )
